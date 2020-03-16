@@ -1,0 +1,10 @@
+.menu{
+  display: flex;
+  list-style: none;
+  margin-left: 80px;
+  background: #ffe2dd;
+  margin-right: 80px;
+}
+.menu li{
+  margin-left: 30px;
+}
